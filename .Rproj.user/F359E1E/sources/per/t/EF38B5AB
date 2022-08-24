@@ -1,0 +1,25 @@
+{
+    "id": "EF38B5AB",
+    "path": "~/CallBook/yo_analysis.R",
+    "project_path": "yo_analysis.R",
+    "type": "r_source",
+    "hash": "282906435",
+    "contents": "",
+    "dirty": false,
+    "created": 1607030654737.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "cursorPosition": "12,37",
+        "scrollLine": "0",
+        "tempName": "Untitled1"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1608492940,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1608492940208,
+    "read_only": false,
+    "read_only_alternatives": []
+}

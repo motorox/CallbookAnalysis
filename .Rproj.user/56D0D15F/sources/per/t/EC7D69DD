@@ -1,0 +1,26 @@
+{
+    "id": "EC7D69DD",
+    "path": "~/Documents/work/r-projects/CallBook/errors_in_callbooks.R",
+    "project_path": "errors_in_callbooks.R",
+    "type": "r_source",
+    "hash": "4213352702",
+    "contents": "",
+    "dirty": false,
+    "created": 1660059548486.0,
+    "source_on_save": false,
+    "relative_order": 20,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "67,62",
+        "scrollLine": "49"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1661184534,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1661184534822,
+    "read_only": false,
+    "read_only_alternatives": []
+}

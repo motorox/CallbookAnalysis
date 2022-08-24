@@ -1,0 +1,32 @@
+{
+    "id": "DFDC4881",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1607284195135.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "expression": "city_count",
+        "caption": "city_count",
+        "totalObservations": 549,
+        "displayedObservations": 549,
+        "variables": 2,
+        "cacheKey": "EA385500",
+        "object": "city_count",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=city_count&cache_key=EA385500&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2318265438588531822,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1607284195135,
+    "read_only": false,
+    "read_only_alternatives": []
+}

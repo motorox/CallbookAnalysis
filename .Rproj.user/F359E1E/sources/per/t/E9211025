@@ -1,0 +1,32 @@
+{
+    "id": "E9211025",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1607067792695.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "expression": "callbook",
+        "caption": "callbook",
+        "totalObservations": "5016",
+        "displayedObservations": "5016",
+        "variables": "11",
+        "cacheKey": "5552C87E",
+        "object": "callbook",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=callbook&cache_key=5552C87E&max_cols=50",
+        "preview": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 7957688064806756898,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1607067792695,
+    "read_only": false,
+    "read_only_alternatives": []
+}

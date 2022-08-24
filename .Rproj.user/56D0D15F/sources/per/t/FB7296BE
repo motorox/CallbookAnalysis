@@ -1,0 +1,27 @@
+{
+    "id": "FB7296BE",
+    "path": "~/Documents/work/r-projects/CallBook/read_files.R",
+    "project_path": "read_files.R",
+    "type": "r_source",
+    "hash": "2301542182",
+    "contents": "",
+    "dirty": false,
+    "created": 1659954390675.0,
+    "source_on_save": false,
+    "relative_order": 15,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "54,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1660724253,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1660724253892,
+    "read_only": false,
+    "read_only_alternatives": []
+}

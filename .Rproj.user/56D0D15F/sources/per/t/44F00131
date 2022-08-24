@@ -1,0 +1,28 @@
+{
+    "id": "44F00131",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1659817093382.0,
+    "source_on_save": false,
+    "relative_order": 13,
+    "properties": {
+        "id": "643423770a2d4d10b0caf63e2ccd149b",
+        "name": "map_nz",
+        "title": "map_nz",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 140485534687000,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1659817093382,
+    "read_only": false,
+    "read_only_alternatives": []
+}

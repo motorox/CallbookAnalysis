@@ -1,0 +1,32 @@
+{
+    "id": "6F7D52AF",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1608497454770.0,
+    "source_on_save": false,
+    "relative_order": 11,
+    "properties": {
+        "expression": "county_count",
+        "caption": "county_count",
+        "totalObservations": 48,
+        "displayedObservations": 48,
+        "variables": 2,
+        "cacheKey": "62F338E3",
+        "object": "county_count",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=county_count&cache_key=62F338E3&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 27584706638053496,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1608497454770,
+    "read_only": false,
+    "read_only_alternatives": []
+}

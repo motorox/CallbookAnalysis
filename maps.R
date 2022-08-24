@@ -1,0 +1,18 @@
+library(sf)
+library(raster)
+library(dplyr)
+library(spData)
+#library(spDataLarge)
+
+library(tmap)    # for static and interactive maps
+library(leaflet) # for interactive maps
+library(ggplot2) # tidyverse data visualization package
+
+india = world[world$name_long == "Romania", ]
+  tm_borders() 
+# Add fill and border layers to nz shape
+map_nz = tm_shape(india) +
+  tm_fill() +
+  tm_borders() 
+tmap_mode("view")
+print(map_nz)

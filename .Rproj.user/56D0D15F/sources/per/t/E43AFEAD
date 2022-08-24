@@ -1,0 +1,26 @@
+{
+    "id": "E43AFEAD",
+    "path": "~/Documents/work/r-projects/CallBook/yo_analysis.R",
+    "project_path": "yo_analysis.R",
+    "type": "r_source",
+    "hash": "3487280519",
+    "contents": "",
+    "dirty": false,
+    "created": 1659805458188.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "13,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1660756645,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1660756645654,
+    "read_only": false,
+    "read_only_alternatives": []
+}
